@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">bangkit3</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="title_detail" />
+    <string name="summary">Summary</string>
+    <string name="Title">Title</string>
+</resources>
